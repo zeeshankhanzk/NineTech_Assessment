@@ -1,0 +1,28 @@
+2021-06-27 16:42:51,056 [main] INFO com.base.TestBase - Opening Chrome Browser
+2021-06-27 16:42:53,357 [main] INFO com.base.TestBase - Maximizing window
+2021-06-27 16:42:53,543 [main] INFO com.base.TestBase - Step-1 : Launch the application URL
+2021-06-27 16:42:53,545 [main] INFO com.base.TestBase - Navigating to the URL: https://www.afr.com/policy/foreign-affairs/capability-edge-and-keeping-south-china-sea-open-crucial--christopher-pyne-20180924-h15rq9
+2021-06-27 16:43:01,424 [main] INFO com.base.TestBase - Step-2 : Validating that the subscription prompt is popped up from the bottom of the page
+2021-06-27 16:43:01,681 [main] INFO com.base.TestBase - Capture screenshot for Step-2
+2021-06-27 16:43:02,138 [main] INFO com.base.TestBase - Step-3 : Scrolling down to the end of the page
+2021-06-27 16:43:02,166 [main] INFO com.base.TestBase - Capture screenshot for Step-3
+2021-06-27 16:43:02,899 [main] INFO com.base.TestBase - Step-4 : Wait for 10 seconds (utmost)
+2021-06-27 16:43:22,994 [main] INFO com.base.TestBase - Capture screenshot for Step-4
+2021-06-27 16:43:23,391 [main] INFO com.base.TestBase - Step-5 : Validating that the subscription prompt is disappeared
+2021-06-27 16:43:43,816 [main] INFO com.base.TestBase - Capture screenshot for Step-5
+2021-06-27 16:44:03,840 [main] INFO com.base.TestBase - Closing the Browser
+2021-06-27 16:44:03,841 [main] INFO com.base.TestBase - Driver instance is killed
+2021-06-27 16:51:28,635 [main] INFO com.base.TestBase - Opening Chrome Browser
+2021-06-27 16:51:31,052 [main] INFO com.base.TestBase - Maximizing window
+2021-06-27 16:51:31,244 [main] INFO com.base.TestBase - Step-1 : Launch the application URL
+2021-06-27 16:51:31,244 [main] INFO com.base.TestBase - Navigating to the URL: https://www.afr.com/policy/foreign-affairs/capability-edge-and-keeping-south-china-sea-open-crucial--christopher-pyne-20180924-h15rq9
+2021-06-27 16:51:43,384 [main] INFO com.base.TestBase - Step-2 : Validating that the subscription prompt is popped up from the bottom of the page
+2021-06-27 16:51:43,789 [main] INFO com.base.TestBase - Capture screenshot for Step-2
+2021-06-27 16:51:44,438 [main] INFO com.base.TestBase - Step-3 : Scrolling down to the end of the page
+2021-06-27 16:51:44,450 [main] INFO com.base.TestBase - Capture screenshot for Step-3
+2021-06-27 16:51:45,038 [main] INFO com.base.TestBase - Step-4 : Wait for 10 seconds (utmost)
+2021-06-27 16:52:05,119 [main] INFO com.base.TestBase - Capture screenshot for Step-4
+2021-06-27 16:52:05,486 [main] INFO com.base.TestBase - Step-5 : Validating that the subscription prompt is disappeared
+2021-06-27 16:52:05,851 [main] INFO com.base.TestBase - Capture screenshot for Step-5
+2021-06-27 16:52:25,914 [main] INFO com.base.TestBase - Closing the Browser
+2021-06-27 16:52:25,914 [main] INFO com.base.TestBase - Driver instance is killed

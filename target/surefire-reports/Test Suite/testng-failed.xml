@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Test Suite]">
+  <test thread-count="5" verbose="0" name="NineTech Tests(failed)">
+    <classes>
+      <class name="com.testscripts.Nine_FR_Assessment">
+        <methods>
+          <include name="TC_01_EndOfSeasonSale_PopUp"/>
+          <include name="preSetup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testscripts.Nine_FR_Assessment -->
+    </classes>
+  </test> <!-- NineTech Tests(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
