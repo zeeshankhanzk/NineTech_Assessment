@@ -10,7 +10,7 @@ jobs:
       # replace with your preferred image
       - image: cimg/base:stable
     steps:
-      - browser-tools/install-chrome
+      - browser-tools/install-chromedriver
 workflows:
   example-workflow:
     jobs:
