@@ -5,9 +5,13 @@ orbs:
   browser-tools: circleci/browser-tools@1.2.3
   
 jobs:
-  test:
+  example-job:
     docker:
-      - image: 'cimg/node:13.12-browser'
+      # replace with your preferred image
+      - image: cimg/base:stable
     steps:
-      - browser-tools/install-browser-tools
-workflows: null
+      - browser-tools/install-chrome
+workflows:
+  example-workflow:
+    jobs:
+      - example-job
